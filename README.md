@@ -9,7 +9,7 @@ Focused on Linux internals, offensive security fundamentals, and low-level compu
 
 ---
 
-## 🧠 Current Focus
+## Current Focus
 - CEH preparation (practical cybersecurity fundamentals)
 - Systems programming in **C**
 - Linux kernel development roadmap (long-term)
@@ -17,7 +17,7 @@ Focused on Linux internals, offensive security fundamentals, and low-level compu
 
 ---
 
-## 🛠 Skills
+## Skills
 - Linux environments & CLI workflows
 - Bash scripting & automation
 - Python scripting (security + tooling)
@@ -27,7 +27,7 @@ Focused on Linux internals, offensive security fundamentals, and low-level compu
 
 ---
 
-## 🔧 Tools & Technologies
+## Tools & Technologies
 - Nmap, Gobuster, Aircrack-ng
 - Digispark / Digistump payload development
 - Ollama (local LLM workflows + Modelfiles)
@@ -37,31 +37,31 @@ Focused on Linux internals, offensive security fundamentals, and low-level compu
 
 ---
 
-## 🚀 Featured Projects
-### 🎵 TommyFi
+## Featured Projects
+### TommyFi
 CLI-based music player written entirely in Bash (mpv backend).  
 A minimal, ad-free music experience designed for Linux power users.
 
-### ⚡ Digispark Payload Labs
+### Digispark Payload Labs
 USB automation + payload experiments (educational & security research use cases).
 
-### 🤖 Local AI / Ollama Models
+### Local AI / Ollama Models
 Custom Modelfiles and local LLM setups for security workflows and experimentation.
 
-### 🌐 Gemini CLI Browser (Terminal AI Web Assistant)
+### Gemini CLI Browser (Terminal AI Web Assistant)
 A CLI tool built using Gemini API grounding services, capable of web-assisted Q&A  
 and terminal-based browsing style workflows.
 
 ---
 
-## 🏆 Certifications / Achievements
+## Certifications / Achievements
 - TryHackMe: **Advent of Cyber (24 Days Event)**
 - Hack The Box: **CTF Participation Certificate**
 - TCM Security: **Linux 101 Certificate**
 
 ---
 
-## 🐺 Fenrir Security Systems
+## Fenrir Security Systems
 I run **Fenrir Security Systems**, a GitHub organization where I manage projects and collaboration workflows.
 
 Experience gained:
@@ -73,12 +73,12 @@ Experience gained:
 
 ---
 
-## 🎯 Long-Term Goal
+## Long-Term Goal
 Become a **Linux Systems Engineer** specializing in security and low-level computing.
 
 ---
 
-## 📫 Contact
+## Contact
 GitHub: https://github.com/tommykfenrir  
 Organization: https://github.com/Fenrir-Security-Systems
 
