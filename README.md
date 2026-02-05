@@ -1,4 +1,4 @@
-# K-Datta-Darshan-tommykfenrir-
+# tommykfenrir
 profile# K Datta Darshan (TommyFenrir)
 
 Cybersecurity | Systems Programming | Linux | C | Bash  
